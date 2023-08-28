@@ -1,5 +1,4 @@
-# ecart
-We have an idea: React Native e-commerce apps that easily connect to any eCommerce by few clicks.
+# React Native e-commerce apps that easily connect to any eCommerce by few clicks.
 
 And we create the biggest e-commerce application template that has ever been made based on React Native. Inside you will found more than 10+ screens for creating full-functionality e-commerce applications. It is a high-performance application template for your project and clients. The template contains: cart, profile, user cabinet, reorder functionality, attributes from products and more 30+ useful screens.
 

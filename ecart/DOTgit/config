@@ -5,7 +5,7 @@
 	logallrefupdates = true
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/daiya-gopal/ecart
+	url = https://github.com/varaprasadh/ecart
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
