@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.19.0",
-    "expo": "^35.0.0",
+    "expo": "^49.0.8",
     "lodash": "^4.17.15",
     "native-base": "^2.12.1",
     "react": "16.8.3",
@@ -30,7 +30,7 @@
     "styled-components": "^4.3.2"
   },
   "devDependencies": {
-    "babel-preset-expo": "^7.0.0"
+    "babel-preset-expo": "^9.5.2"
   },
   "private": true
 }
